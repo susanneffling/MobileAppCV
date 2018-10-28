@@ -1,0 +1,12 @@
+//More style attributes so the text wouldn't be too near the left or right side of the screen (Susan Neffling 1700137)
+
+p {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+strong {
+    padding-left: 10px;
+    padding-right: 10px;
+}
